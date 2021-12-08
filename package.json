@@ -1,0 +1,21 @@
+{
+  "name": "omdb-practice-project",
+  "version": "1.0.0",
+  "description": "Using the OMDb API to create a \"MITTFLIX\" app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lussier07/omdb-practice-project.git"
+  },
+  "keywords": [],
+  "author": "Brendan Lussier",
+  "bugs": {
+    "url": "https://github.com/Lussier07/omdb-practice-project/issues"
+  },
+  "homepage": "https://github.com/Lussier07/omdb-practice-project#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
